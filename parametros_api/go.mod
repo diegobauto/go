@@ -1,6 +1,6 @@
 module github.com/udistrital/parametros_api
 
-go 1.21.3
+go 1.18
 
 require (
 	github.com/astaxie/beego v1.12.3

@@ -1,6 +1,6 @@
 module github.com/udistrital/agenda_mid_parametros
 
-go 1.21.3
+go 1.18
 
 require github.com/astaxie/beego v1.12.3
 
